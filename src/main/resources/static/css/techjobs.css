@@ -2,6 +2,10 @@
     margin-top: 72px;
 }
 
+.job {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
 td, th {
     padding: 10px;
 }
@@ -15,7 +19,7 @@ td {
 }
 
 tr:nth-child(odd) {
-    background-color: #e4e4e4;
+    background-color: #ADD8E6;
 }
 
 .centeredTable {
